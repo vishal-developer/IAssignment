@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">main</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_screen_one">Screen One</string>
+    <string name="title_activity_screen_two">Screen Two</string>
+
+    <array name="recycler_array">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+    </array>
+
+    <string name="mode_of_transport_text_view">Mode of transport</string>
+    <string name="navigate_button">Navigate</string>
+</resources>
